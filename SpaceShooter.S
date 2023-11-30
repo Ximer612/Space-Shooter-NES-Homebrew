@@ -291,8 +291,6 @@ no_key_pressed:
     STX CHECK_PRESSED
 JMP end_buttons
 
-
-
 fire_projectile:
 
     LDA MISSILEY+8
